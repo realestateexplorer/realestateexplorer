@@ -262,7 +262,7 @@
 <td>3 bed 1 bath 1,233 sqft 7.61 acres lot</td>
 <td>5565 Preston Oaks Rd Apt 110, Dallas, TX 75254</td>
 <td>New</td>
-<td>gate,pool,tennis, noise? OK</td>
+<td>gate,pool,tennis,no covered parking,steep stares,loft on 2nd fl,OK</td>
 </tr>
 <tr class="odd">
 <td>4</td>
@@ -640,7 +640,7 @@
 <td>2 bed 1+ bath 1,096 sqft 10.2 acres lot yes car</td>
 <td>2337 Trellis Pl, Richardson, TX 75081</td>
 <td></td>
-<td></td>
+<td>looks poor</td>
 </tr>
 <tr class="odd">
 <td>4</td>
@@ -650,7 +650,7 @@
 <td>2 bed 1+ bath 1,111 sqft 10.2 acres lot</td>
 <td>2149 Trellis Pl, Richardson, TX 75081</td>
 <td></td>
-<td></td>
+<td>looks poor</td>
 </tr>
 <tr class="even">
 <td>5</td>
