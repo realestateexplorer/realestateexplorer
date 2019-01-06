@@ -218,7 +218,7 @@
 <td>CN</td>
 <td>$165,000</td>
 <td>2 bed 1+ bath 1,022 sqft 2.28 acres lot 1 car</td>
-<td>5619 Preston Oaks Rd Apt 603, Dallas, TX 75254</td>
+<td>~5619 Preston Oaks Rd Apt 603, Dallas, TX 75254</td>
 <td>New</td>
 <td></td>
 </tr>
@@ -236,7 +236,7 @@
 <td>CN</td>
 <td>$169,000</td>
 <td>3 bed 1 bath 1,233 sqft 7.61 acres lot</td>
-<td>5565 Preston Oaks Rd Apt 110, Dallas, TX 75254</td>
+<td>~5565 Preston Oaks Rd Apt 110, Dallas, TX 75254</td>
 <td>New</td>
 <td>gate,pool,tennis,no covered parking,steep stares,loft on 2nd fl,OK</td>
 </tr>
@@ -1011,7 +1011,7 @@
 <td>$210,000</td>
 <td>3 bed 1+ bath 1,536 sqft 6,970 sqft lot 2 car</td>
 <td>3408 Westminster Dr, Plano, TX 75074</td>
-<td>ODOpen House 1/06</td>
+<td>~Open House 1/06</td>
 <td>new AC, clean, OK ?</td>
 </tr>
 <tr class="odd">
@@ -1110,7 +1110,7 @@
 <td>$212,000</td>
 <td>3 bed 2 bath 1,292 sqft 7,841 sqft lot 1 car</td>
 <td>1916 Fairfield Dr, Plano, TX 75074</td>
-<td>ODOpen House 1/06</td>
+<td>~Open House 1/06</td>
 <td>pool, poor paint, sat dish, park near,OK</td>
 </tr>
 <tr class="even">
