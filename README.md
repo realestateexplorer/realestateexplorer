@@ -395,24 +395,6 @@
 </tr>
 <tr class="odd">
 <td>37</td>
-<td>CN</td>
-<td>$134,900</td>
-<td>2 bed 1+ bath 987 sqft 2.33 acres lot</td>
-<td>900 S Weatherred Dr Unit 900L, Richardson, TX 75080</td>
-<td>New</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>38</td>
-<td>CN</td>
-<td>$154,900</td>
-<td>2 bed 1+ bath 1,001 sqft 5.0 acres lot</td>
-<td>821 Dublin Dr Apt 157, Richardson, TX 75080</td>
-<td></td>
-<td>bad roof corner nice back yard OK</td>
-</tr>
-<tr class="odd">
-<td>39</td>
 <td>HS</td>
 <td>$210,000</td>
 <td>3 bed 2 bath 1,448 sqft 8,320 sqft lot yes car</td>
@@ -421,13 +403,31 @@
 <td></td>
 </tr>
 <tr class="even">
-<td>40</td>
+<td>38</td>
 <td>CN</td>
-<td>$159,500</td>
-<td>2 bed 2 bath 1,075 sqft 436 sqft lot</td>
-<td>511 W Lookout Dr Apt 207, Richardson, TX 75080</td>
+<td>$134,900</td>
+<td>2 bed 1+ bath 987 sqft 2.33 acres lot</td>
+<td>900 S Weatherred Dr Unit 900L, Richardson, TX 75080</td>
+<td>New</td>
 <td></td>
-<td>not good</td>
+</tr>
+<tr class="odd">
+<td>39</td>
+<td>HS</td>
+<td>$225,000</td>
+<td>3 bed 2 bath 1,354 sqft 0.25 acres lot 2 car</td>
+<td>1207 Wisteria Way, Richardson, TX 75080</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>40</td>
+<td>HS</td>
+<td>$210,000</td>
+<td>3 bed 1 bath 985 sqft 8,581 sqft lot 1 car</td>
+<td>429 Vernet St, Richardson, TX 75080</td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td>41</td>
@@ -441,10 +441,10 @@
 <tr class="even">
 <td>42</td>
 <td>HS</td>
-<td>$225,000</td>
-<td>3 bed 2 bath 1,354 sqft 0.25 acres lot 2 car</td>
-<td>1207 Wisteria Way, Richardson, TX 75080</td>
-<td></td>
+<td>$218,115</td>
+<td>3 bed 2 bath 1,147 sqft 7,797 sqft lot 2 car</td>
+<td>814 Wisteria Way, Richardson, TX 75080</td>
+<td>Pending</td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -459,11 +459,11 @@
 <tr class="even">
 <td>44</td>
 <td>CN</td>
-<td>$135,000</td>
-<td>2 bed 2 bath 1,114 sqft 9.81 acres lot</td>
-<td>839 B Dublin Dr Unit 2, Richardson, TX 75080</td>
+<td>$167,500</td>
+<td>2 bed 2 bath 987 sqft 4.84 acres lot yes car</td>
+<td>919 S Weatherred Dr Apt 106, Richardson, TX 75080</td>
 <td></td>
-<td>OK</td>
+<td>not good</td>
 </tr>
 <tr class="odd">
 <td>45</td>
@@ -476,42 +476,6 @@
 </tr>
 <tr class="even">
 <td>46</td>
-<td>HS</td>
-<td>$210,000</td>
-<td>3 bed 1 bath 985 sqft 8,581 sqft lot 1 car</td>
-<td>429 Vernet St, Richardson, TX 75080</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>47</td>
-<td>HS</td>
-<td>$218,115</td>
-<td>3 bed 2 bath 1,147 sqft 7,797 sqft lot 2 car</td>
-<td>814 Wisteria Way, Richardson, TX 75080</td>
-<td>Pending</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>48</td>
-<td>CN</td>
-<td>$167,500</td>
-<td>2 bed 2 bath 987 sqft 4.84 acres lot yes car</td>
-<td>919 S Weatherred Dr Apt 106, Richardson, TX 75080</td>
-<td></td>
-<td>not good</td>
-</tr>
-<tr class="odd">
-<td>49</td>
-<td>CN</td>
-<td>$150,000</td>
-<td>2 bed 2 bath 1,496 sqft 4,356 sqft lot</td>
-<td>2650 Custer Pkwy Apt A, Richardson, TX 75080</td>
-<td>Pending</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>50</td>
 <td>CN</td>
 <td>$225,000</td>
 <td>3 bed 2+ bath 1,461 sqft 8.42 acres lot 1 car</td>
@@ -520,13 +484,49 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td>51</td>
+<td>47</td>
+<td>CN</td>
+<td>$154,900</td>
+<td>2 bed 1+ bath 1,001 sqft 5.0 acres lot</td>
+<td>821 Dublin Dr Apt 157, Richardson, TX 75080</td>
+<td></td>
+<td>bad roof corner nice back yard OK</td>
+</tr>
+<tr class="even">
+<td>48</td>
+<td>CN</td>
+<td>$135,000</td>
+<td>2 bed 2 bath 1,114 sqft 9.81 acres lot</td>
+<td>839 B Dublin Dr Unit 2, Richardson, TX 75080</td>
+<td></td>
+<td>OK</td>
+</tr>
+<tr class="odd">
+<td>49</td>
+<td>CN</td>
+<td>$159,500</td>
+<td>2 bed 2 bath 1,075 sqft 436 sqft lot</td>
+<td>511 W Lookout Dr Apt 207, Richardson, TX 75080</td>
+<td></td>
+<td>not good</td>
+</tr>
+<tr class="even">
+<td>50</td>
 <td>CN</td>
 <td>$141,900</td>
 <td>3 bed 2 bath 1,303 sqft</td>
 <td>919 S Weatherred Dr Apt 203, Richardson, TX 75080</td>
-<td>Contingent</td>
+<td>Pending</td>
 <td>not good</td>
+</tr>
+<tr class="odd">
+<td>51</td>
+<td>CN</td>
+<td>$150,000</td>
+<td>2 bed 2 bath 1,496 sqft 4,356 sqft lot</td>
+<td>2650 Custer Pkwy Apt A, Richardson, TX 75080</td>
+<td>Pending</td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -566,15 +566,6 @@
 </tr>
 <tr class="odd">
 <td>54</td>
-<td>HS</td>
-<td>$195,000</td>
-<td>4 bed 2 bath 1,419 sqft 8,712 sqft lot 2 car</td>
-<td>1102 Brentwood Dr, Plano, TX 75075</td>
-<td></td>
-<td>good area, strange house, cracks in walls</td>
-</tr>
-<tr class="even">
-<td>55</td>
 <td>CN</td>
 <td>$175,000</td>
 <td>2 bed 2 bath 1,046 sqft 1,525 sqft lot</td>
@@ -582,14 +573,23 @@
 <td></td>
 <td>almost bought</td>
 </tr>
-<tr class="odd">
-<td>56</td>
+<tr class="even">
+<td>55</td>
 <td>CN</td>
 <td>$165,000</td>
 <td>2 bed 2 bath 1,086 sqft 1,525 sqft lot 1 car</td>
 <td>1700 Amelia Ct Apt 422, Plano, TX 75075</td>
 <td></td>
 <td>2nd fl</td>
+</tr>
+<tr class="odd">
+<td>56</td>
+<td>HS</td>
+<td>$195,000</td>
+<td>4 bed 2 bath 1,419 sqft 8,712 sqft lot 2 car</td>
+<td>1102 Brentwood Dr, Plano, TX 75075</td>
+<td>Pending</td>
+<td>good area, strange house, cracks in walls</td>
 </tr>
 </tbody>
 </table>
@@ -720,7 +720,7 @@
 </tbody>
 </table>
 
-### PropertyCount:10 https://www.realtor.com/realestateandhomes-search/75081/beds-2/price-na-230000
+### PropertyCount:9 https://www.realtor.com/realestateandhomes-search/75081/beds-2/price-na-230000
 
 <table>
 <thead>
@@ -792,23 +792,14 @@
 <tr class="odd">
 <td>73</td>
 <td>HS</td>
-<td>$160,000</td>
-<td>3 bed 1+ bath 1,387 sqft 9,583 sqft lot 1 car</td>
-<td>538 Rorary Dr, Richardson, TX 75081</td>
-<td>Pending</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>74</td>
-<td>HS</td>
 <td>$219,900</td>
 <td>3 bed 2 bath 1,435 sqft 8,799 sqft lot 2 car</td>
 <td>2104 Linda Ln, Richardson, TX 75081</td>
 <td>Pending</td>
 <td></td>
 </tr>
-<tr class="odd">
-<td>75</td>
+<tr class="even">
+<td>74</td>
 <td>HS</td>
 <td>$162,900</td>
 <td>4 bed 2 bath 1,097 sqft 0.24 acres lot</td>
@@ -816,8 +807,8 @@
 <td></td>
 <td>looks old, not clean</td>
 </tr>
-<tr class="even">
-<td>76</td>
+<tr class="odd">
+<td>75</td>
 <td>HS</td>
 <td>$159,900</td>
 <td>3 bed 1 bath 1,133 sqft 0.25 acres lot 1 car</td>
@@ -844,7 +835,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td>77</td>
+<td>76</td>
 <td>CN</td>
 <td>$225,000</td>
 <td>2 bed 1+ bath 1,234 sqft 3,485 sqft lot 2 car</td>
@@ -853,7 +844,7 @@
 <td>nice, very far</td>
 </tr>
 <tr class="even">
-<td>78</td>
+<td>77</td>
 <td>HS</td>
 <td>$215,000</td>
 <td>3 bed 2 bath 1,436 sqft 9,148 sqft lot 2 car</td>
@@ -880,7 +871,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td>79</td>
+<td>78</td>
 <td>HS</td>
 <td>$199,995</td>
 <td>4 bed 2 bath 1,257 sqft 7,405 sqft lot yes car</td>
@@ -889,25 +880,25 @@
 <td></td>
 </tr>
 <tr class="even">
+<td>79</td>
+<td>HS</td>
+<td>$189,900</td>
+<td>3 bed 1 bath 995 sqft 6,970 sqft lot</td>
+<td>3108 Lucas Ter, Plano, TX 75074</td>
+<td></td>
+<td>changed fence, OK</td>
+</tr>
+<tr class="odd">
 <td>80</td>
 <td>HS</td>
 <td>$155,900</td>
 <td>3 bed 2 bath 1,338 sqft 9,148 sqft lot 2 car</td>
 <td>3305 Ridgelake Ln, Plano, TX 75074</td>
-<td>New</td>
+<td>Pending</td>
 <td>looks bad inside</td>
 </tr>
-<tr class="odd">
-<td>81</td>
-<td>HS</td>
-<td>$189,900</td>
-<td>3 bed 1 bath 995 sqft 6,970 sqft lot</td>
-<td>3108 Lucas Ter, Plano, TX 75074</td>
-<td>New</td>
-<td>changed fence, OK</td>
-</tr>
 <tr class="even">
-<td>82</td>
+<td>81</td>
 <td>HS</td>
 <td>$215,000</td>
 <td>2 bed 2+ bath 1,248 sqft 4,792 sqft lot 2 car</td>
@@ -916,7 +907,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td>83</td>
+<td>82</td>
 <td>HS</td>
 <td>$209,990</td>
 <td>3 bed 2 bath 1,230 sqft 7,405 sqft lot yes car</td>
@@ -925,7 +916,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td>84</td>
+<td>83</td>
 <td>CN</td>
 <td>$145,000</td>
 <td>2 bed 1+ bath 945 sqft 3,615 sqft lot</td>
@@ -934,7 +925,7 @@
 <td>1 str, new AC, OK</td>
 </tr>
 <tr class="odd">
-<td>85</td>
+<td>84</td>
 <td>CN</td>
 <td>$155,000</td>
 <td>2 bed 2+ bath 1,254 sqft 741 sqft lot</td>
@@ -943,7 +934,7 @@
 <td>???</td>
 </tr>
 <tr class="even">
-<td>86</td>
+<td>85</td>
 <td>HS</td>
 <td>$159,900</td>
 <td>3 bed 2 bath 1,328 sqft 7,405 sqft lot 1 car</td>
@@ -952,16 +943,16 @@
 <td>cracked windows, OK</td>
 </tr>
 <tr class="odd">
-<td>87</td>
+<td>86</td>
 <td>HS</td>
-<td>$179,999</td>
+<td>$174,999</td>
 <td>3 bed 1+ bath 1,117 sqft 7,405 sqft lot 2 car</td>
 <td>1625 Hawthorne Ln, Plano, TX 75074</td>
 <td></td>
 <td>talked to neighbor,renovation,some chacks, new AC, OK</td>
 </tr>
 <tr class="even">
-<td>88</td>
+<td>87</td>
 <td>HS</td>
 <td>$220,000</td>
 <td>4 bed 3 bath 1,938 sqft 9,148 sqft lot</td>
@@ -970,7 +961,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td>89</td>
+<td>88</td>
 <td>HS</td>
 <td>$199,000</td>
 <td>2 bed 1 bath 1,028 sqft 0.28 acres lot</td>
@@ -979,7 +970,7 @@
 <td>built in 1943</td>
 </tr>
 <tr class="even">
-<td>90</td>
+<td>89</td>
 <td>HS</td>
 <td>$220,000</td>
 <td>4 bed 2 bath 1,685 sqft 8,712 sqft lot 2 car</td>
@@ -988,7 +979,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td>91</td>
+<td>90</td>
 <td>HS</td>
 <td>$199,999</td>
 <td>3 bed 2 bath 1,310 sqft 7,405 sqft lot 1 car</td>
@@ -997,7 +988,7 @@
 <td>some cracks, locks, not OK</td>
 </tr>
 <tr class="even">
-<td>92</td>
+<td>91</td>
 <td>HS</td>
 <td>$190,000</td>
 <td>3 bed 1 bath 1,044 sqft 6,970 sqft lot 1 car</td>
@@ -1006,7 +997,7 @@
 <td>renovated, new materials, 1 bath, OK</td>
 </tr>
 <tr class="odd">
-<td>93</td>
+<td>92</td>
 <td>HS</td>
 <td>$139,000</td>
 <td>3 bed 2 bath 1,292 sqft yes car</td>
@@ -1015,16 +1006,16 @@
 <td>looks OK, shed, no garage</td>
 </tr>
 <tr class="even">
-<td>94</td>
+<td>93</td>
 <td>HS</td>
 <td>$210,000</td>
 <td>3 bed 1+ bath 1,536 sqft 6,970 sqft lot 2 car</td>
 <td>3408 Westminster Dr, Plano, TX 75074</td>
-<td>~Open House 1/08</td>
+<td>~Open House 1/09</td>
 <td>new AC, clean, OK ?</td>
 </tr>
 <tr class="odd">
-<td>95</td>
+<td>94</td>
 <td>HS</td>
 <td>$225,000</td>
 <td>4 bed 2+ bath 1,482 sqft 7,405 sqft lot yes car</td>
@@ -1033,7 +1024,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td>96</td>
+<td>95</td>
 <td>CN</td>
 <td>$154,900</td>
 <td>2 bed 1+ bath 1,270 sqft 4,225 sqft lot</td>
@@ -1042,7 +1033,7 @@
 <td>2 str, OK</td>
 </tr>
 <tr class="odd">
-<td>97</td>
+<td>96</td>
 <td>HS</td>
 <td>$194,900</td>
 <td>3 bed 1 bath 1,216 sqft 6,970 sqft lot 3 car</td>
@@ -1051,7 +1042,7 @@
 <td>old dirty window AC extra garage</td>
 </tr>
 <tr class="even">
-<td>98</td>
+<td>97</td>
 <td>HS</td>
 <td>$190,000</td>
 <td>3 bed 2 bath 1,166 sqft 4,792 sqft lot</td>
@@ -1060,7 +1051,7 @@
 <td>bad area subsidized</td>
 </tr>
 <tr class="odd">
-<td>99</td>
+<td>98</td>
 <td>HS</td>
 <td>$216,700</td>
 <td>4 bed 2 bath 1,520 sqft 0.28 acres lot 2 car</td>
@@ -1069,7 +1060,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td>100</td>
+<td>99</td>
 <td>HS</td>
 <td>$224,000</td>
 <td>3 bed 2 bath 1,524 sqft 0.32 acres lot 2 car</td>
@@ -1078,7 +1069,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td>101</td>
+<td>100</td>
 <td>CN</td>
 <td>$169,000</td>
 <td>2 bed 2+ bath 1,254 sqft 697 sqft lot</td>
@@ -1087,7 +1078,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td>102</td>
+<td>101</td>
 <td>HS</td>
 <td>$228,000</td>
 <td>3 bed 2 bath 1,400 sqft 7,405 sqft lot 2 car</td>
@@ -1096,7 +1087,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td>103</td>
+<td>102</td>
 <td>HS</td>
 <td>$199,900</td>
 <td>4 bed 2 bath 1,428 sqft 8,276 sqft lot 2 car</td>
@@ -1105,16 +1096,16 @@
 <td></td>
 </tr>
 <tr class="even">
-<td>104</td>
+<td>103</td>
 <td>HS</td>
 <td>$212,000</td>
 <td>3 bed 2 bath 1,292 sqft 7,841 sqft lot 1 car</td>
 <td>1916 Fairfield Dr, Plano, TX 75074</td>
-<td>~Open House 1/08</td>
+<td>~Open House 1/09</td>
 <td>pool, poor paint, sat dish, park near,OK</td>
 </tr>
 <tr class="odd">
-<td>105</td>
+<td>104</td>
 <td>HS</td>
 <td>$200,000</td>
 <td>4 bed 2 bath 1,680 sqft 7,492 sqft lot</td>
