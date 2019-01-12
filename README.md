@@ -220,7 +220,7 @@
 <td>2 bed 1+ bath 1,022 sqft 2.28 acres lot 1 car</td>
 <td>~5619 Preston Oaks Rd Apt 603, Dallas, TX 75254</td>
 <td>System.Object[]</td>
-<td></td>
+<td>!new AC,smell,extra AC in backyard</td>
 </tr>
 <tr class="odd">
 <td>20</td>
@@ -373,7 +373,7 @@
 <td>3 bed 1+ bath 1,422 sqft 8,276 sqft lot 2 car</td>
 <td>521 Vernet St, Richardson, TX 75080</td>
 <td>New - 15 hours ago</td>
-<td></td>
+<td>very old</td>
 </tr>
 <tr class="even">
 <td>35</td>
@@ -454,7 +454,7 @@
 <td>3 bed 2 bath 1,354 sqft 0.25 acres lot 2 car</td>
 <td>1207 Wisteria Way, Richardson, TX 75080</td>
 <td></td>
-<td></td>
+<td>!looks nice,good neighborhood</td>
 </tr>
 <tr class="odd">
 <td>44</td>
@@ -571,7 +571,7 @@
 <td>3 bed 2 bath 1,292 sqft</td>
 <td>2204 W Park Blvd Apt 2402, Plano, TX 75075</td>
 <td>New</td>
-<td></td>
+<td>almost bought,gone</td>
 </tr>
 <tr class="odd">
 <td>55</td>
@@ -580,7 +580,7 @@
 <td>2 bed 2 bath 919 sqft 1,220 sqft lot 1 car</td>
 <td>3101 Townbluff Dr Apt 1021, Plano, TX 75075</td>
 <td>New</td>
-<td></td>
+<td>talked to Margaret,2nd fl,clean</td>
 </tr>
 <tr class="even">
 <td>56</td>
@@ -634,7 +634,7 @@
 <td>3 bed 2 bath 1,536 sqft 9,583 sqft lot 2 car</td>
 <td>1000 Harvest Glen Dr, Plano, TX 75023</td>
 <td>New</td>
-<td></td>
+<td>looks good,dark at night</td>
 </tr>
 <tr class="even">
 <td>60</td>
@@ -751,7 +751,7 @@
 <td>3 bed 2 bath 1,359 sqft 9,845 sqft lot 2 car</td>
 <td>110 N Briarcrest Dr, Richardson, TX 75081</td>
 <td>New - 21 hours ago</td>
-<td></td>
+<td>talked to Mark,new AC, new flor, no foundation work, repair in str</td>
 </tr>
 <tr class="even">
 <td>69</td>
@@ -760,7 +760,7 @@
 <td>3 bed 2+ bath 1,662 sqft 2,744 sqft lot</td>
 <td>547 Towne House Ln, Richardson, TX 75081</td>
 <td>New</td>
-<td></td>
+<td>looks good,area poor</td>
 </tr>
 <tr class="odd">
 <td>70</td>
