@@ -48,7 +48,7 @@
 <td>$187,500</td>
 <td>2 bed 2 bath 1,020 sqft 11.35 acres lot 1 car</td>
 <td>17490 Meandering Way Apt 2004, Dallas, TX 75252</td>
-<td>Pending</td>
+<td></td>
 <td>corner, Second fl</td>
 </tr>
 </tbody>
@@ -75,7 +75,7 @@
 <td>$163,900</td>
 <td>2 bed 2 bath 1,153 sqft 5.55 acres lot yes car</td>
 <td>~5310 Keller Springs Rd Apt 333, Dallas, TX 75248</td>
-<td>New - 12 hours ago</td>
+<td>New</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -162,7 +162,7 @@
 </tbody>
 </table>
 
-### PropertyCount:15 https://www.realtor.com/realestateandhomes-search/75254/beds-2/price-na-230000
+### PropertyCount:14 https://www.realtor.com/realestateandhomes-search/75254/beds-2/price-na-230000
 
 <table>
 <thead>
@@ -201,7 +201,7 @@
 <td>$180,000</td>
 <td>2 bed 2+ bath 1,135 sqft 5.27 acres lot</td>
 <td>5626 Preston Oaks Rd Apt 2B, Dallas, TX 75254</td>
-<td>New</td>
+<td>System.Object[]</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -216,38 +216,38 @@
 <tr class="odd">
 <td>19</td>
 <td>CN</td>
-<td>$169,000</td>
-<td>3 bed 1 bath 1,233 sqft 7.61 acres lot</td>
-<td>~5565 Preston Oaks Rd Apt 110, Dallas, TX 75254</td>
-<td></td>
-<td>gate,pool,tennis,no covered parking,steep stares,loft on 2nd fl,OK</td>
-</tr>
-<tr class="even">
-<td>20</td>
-<td>CN</td>
 <td>$165,000</td>
 <td>2 bed 1+ bath 977 sqft 2.28 acres lot 1 car</td>
 <td>~5619 Preston Oaks Rd Apt 603, Dallas, TX 75254</td>
 <td></td>
 <td>new AC,smell,extra AC in backyard</td>
 </tr>
+<tr class="even">
+<td>20</td>
+<td>CN</td>
+<td>$169,000</td>
+<td>3 bed 1 bath 1,233 sqft 7.61 acres lot</td>
+<td>~5565 Preston Oaks Rd Apt 110, Dallas, TX 75254</td>
+<td></td>
+<td>gate,pool,tennis,no covered parking,steep stares,loft on 2nd fl,OK</td>
+</tr>
 <tr class="odd">
 <td>21</td>
+<td>CN</td>
+<td>$184,900</td>
+<td>2 bed 1 bath 891 sqft 6.93 acres lot 1 car</td>
+<td>5616 Preston Oaks Rd Apt 1801, Dallas, TX 75254</td>
+<td></td>
+<td>gate garage ?</td>
+</tr>
+<tr class="even">
+<td>22</td>
 <td>CN</td>
 <td>$185,000</td>
 <td>2 bed 1+ bath 1,013 sqft 6.35 acres lot yes car</td>
 <td>5100 Verde Valley Ln Apt 126, Dallas, TX 75254</td>
 <td>Pending</td>
 <td>on contract</td>
-</tr>
-<tr class="even">
-<td>22</td>
-<td>CN</td>
-<td>$199,000</td>
-<td>2 bed 2 bath 1,238 sqft 6.93 acres lot 1 car</td>
-<td>5616 Preston Oaks Rd Apt 802, Dallas, TX 75254</td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>23</td>
@@ -261,6 +261,24 @@
 <tr class="even">
 <td>24</td>
 <td>CN</td>
+<td>$165,000</td>
+<td>2 bed 2 bath 920 sqft 3.0 acres lot 1 car</td>
+<td>5590 Spring Valley Rd Unit H205, Dallas, TX 75254</td>
+<td></td>
+<td>not good ?</td>
+</tr>
+<tr class="odd">
+<td>25</td>
+<td>CN</td>
+<td>$163,900</td>
+<td>2 bed 2 bath 1,299 sqft</td>
+<td>14277 Preston Rd Unit 726G, Dallas, TX 75254</td>
+<td>Pending</td>
+<td>no gate, second fl, 2 str</td>
+</tr>
+<tr class="even">
+<td>26</td>
+<td>CN</td>
 <td>$194,900</td>
 <td>2 bed 1 bath 882 sqft 6.93 acres lot 1 car</td>
 <td>5616 Preston Oaks Rd Apt 103, Dallas, TX 75254</td>
@@ -268,7 +286,16 @@
 <td>gate garage ?</td>
 </tr>
 <tr class="odd">
-<td>25</td>
+<td>27</td>
+<td>CN</td>
+<td>$199,000</td>
+<td>2 bed 2 bath 1,238 sqft 6.93 acres lot 1 car</td>
+<td>5616 Preston Oaks Rd Apt 802, Dallas, TX 75254</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>28</td>
 <td>CN</td>
 <td>$209,000</td>
 <td>4 bed 3 bath 1,904 sqft 3,703 sqft lot 2 car</td>
@@ -276,46 +303,10 @@
 <td>Pending</td>
 <td></td>
 </tr>
-<tr class="even">
-<td>26</td>
-<td>CN</td>
-<td>$180,000</td>
-<td>2 bed 2 bath 1,115 sqft 6.93 acres lot 1 car</td>
-<td>5616 Preston Oaks Rd Apt 1402, Dallas, TX 75254</td>
-<td></td>
-<td>gate garage ?</td>
-</tr>
-<tr class="odd">
-<td>27</td>
-<td>CN</td>
-<td>$163,900</td>
-<td>2 bed 2 bath 1,299 sqft</td>
-<td>14277 Preston Rd Unit 726G, Dallas, TX 75254</td>
-<td>Contingent</td>
-<td>no gate, second fl, 2 str</td>
-</tr>
-<tr class="even">
-<td>28</td>
-<td>CN</td>
-<td>$184,900</td>
-<td>2 bed 1 bath 891 sqft 6.93 acres lot 1 car</td>
-<td>5616 Preston Oaks Rd Apt 1801, Dallas, TX 75254</td>
-<td></td>
-<td>gate garage ?</td>
-</tr>
-<tr class="odd">
-<td>29</td>
-<td>CN</td>
-<td>$165,000</td>
-<td>2 bed 2 bath 920 sqft 3.0 acres lot 1 car</td>
-<td>5590 Spring Valley Rd Unit H205, Dallas, TX 75254</td>
-<td></td>
-<td>not good ?</td>
-</tr>
 </tbody>
 </table>
 
-### PropertyCount:20 https://www.realtor.com/realestateandhomes-search/75080/beds-2/price-na-230000
+### PropertyCount:21 https://www.realtor.com/realestateandhomes-search/75080/beds-2/price-na-230000
 
 <table>
 <thead>
@@ -331,6 +322,15 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td>29</td>
+<td>CN</td>
+<td>$199,900</td>
+<td>2 bed 2+ bath 1,632 sqft yes car</td>
+<td>2610 Custer Pkwy Apt A, Richardson, TX 75080</td>
+<td>New - 22 hours ago</td>
+<td></td>
+</tr>
+<tr class="even">
 <td>30</td>
 <td>CN</td>
 <td>$199,500</td>
@@ -339,7 +339,7 @@
 <td>New</td>
 <td>facing street,noisy,little parking,location OK</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>31</td>
 <td>CN</td>
 <td>$230,000</td>
@@ -348,7 +348,7 @@
 <td>New</td>
 <td>on noisy street,corner,cracks,old</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>32</td>
 <td>HS</td>
 <td>$224,900</td>
@@ -357,7 +357,7 @@
 <td>New</td>
 <td>very old</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>33</td>
 <td>HS</td>
 <td>$229,990</td>
@@ -366,7 +366,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>34</td>
 <td>CN</td>
 <td>$124,900</td>
@@ -375,8 +375,17 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>35</td>
+<td>CN</td>
+<td>$132,900</td>
+<td>2 bed 1+ bath 987 sqft 2.33 acres lot</td>
+<td>~900 S Weatherred Dr Unit 900L, Richardson, TX 75080</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>36</td>
 <td>CN</td>
 <td>$152,000</td>
 <td>2 bed 1+ bath 982 sqft 5.42 acres lot 1 car</td>
@@ -385,15 +394,6 @@
 <td>garage,2nd fl,OK</td>
 </tr>
 <tr class="odd">
-<td>36</td>
-<td>CN</td>
-<td>$134,900</td>
-<td>2 bed 1+ bath 987 sqft 2.33 acres lot</td>
-<td>~900 S Weatherred Dr Unit 900L, Richardson, TX 75080</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>37</td>
 <td>CN</td>
 <td>$154,900</td>
@@ -402,16 +402,16 @@
 <td>Pending</td>
 <td>no garage,2 stor,OK</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>38</td>
 <td>CN</td>
-<td>$139,900</td>
+<td>$134,900</td>
 <td>2 bed 1+ bath 922 sqft 9.81 acres lot</td>
 <td>~895 Dublin Dr Unit 3, Richardson, TX 75080</td>
 <td></td>
 <td>not good</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>39</td>
 <td>CN</td>
 <td>$160,000</td>
@@ -420,7 +420,7 @@
 <td></td>
 <td>bad roof clean new AC OK</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>40</td>
 <td>CN</td>
 <td>$135,000</td>
@@ -429,7 +429,7 @@
 <td></td>
 <td>OK</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>41</td>
 <td>CN</td>
 <td>$185,000</td>
@@ -438,7 +438,7 @@
 <td></td>
 <td>bad roof new AC OK</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>42</td>
 <td>CN</td>
 <td>$154,900</td>
@@ -447,7 +447,7 @@
 <td>Contingent</td>
 <td>bad roof corner nice back yard OK</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>43</td>
 <td>CN</td>
 <td>$159,500</td>
@@ -456,7 +456,7 @@
 <td>Pending</td>
 <td>not good</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>44</td>
 <td>CN</td>
 <td>$159,000</td>
@@ -465,7 +465,7 @@
 <td></td>
 <td>not good</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>45</td>
 <td>HS</td>
 <td>$217,500</td>
@@ -474,7 +474,7 @@
 <td>Contingent</td>
 <td>smell inside,repaires,good neighborhood</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>46</td>
 <td>HS</td>
 <td>$218,115</td>
@@ -483,7 +483,7 @@
 <td>Pending</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>47</td>
 <td>HS</td>
 <td>$210,000</td>
@@ -492,7 +492,7 @@
 <td>Pending</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>48</td>
 <td>CN</td>
 <td>$150,000</td>
@@ -501,7 +501,7 @@
 <td>Pending</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>49</td>
 <td>CN</td>
 <td>$225,000</td>
@@ -531,11 +531,11 @@
 <tr class="odd">
 <td>50</td>
 <td>CN</td>
-<td>$189,000</td>
-<td>3 bed 2 bath 1,153 sqft 1,525 sqft lot 1 car</td>
-<td>3101 Townbluff Dr Apt 823, Plano, TX 75075</td>
-<td>Pending</td>
-<td>on contract</td>
+<td>$184,900</td>
+<td>2 bed 2 bath 919 sqft 1,220 sqft lot 1 car</td>
+<td>3101 Townbluff Dr Apt 1021, Plano, TX 75075</td>
+<td></td>
+<td>talked to Margaret,2nd fl,clean</td>
 </tr>
 <tr class="even">
 <td>51</td>
@@ -543,17 +543,17 @@
 <td>$195,000</td>
 <td>3 bed 2 bath 1,292 sqft</td>
 <td>2204 W Park Blvd Apt 2402, Plano, TX 75075</td>
-<td></td>
+<td>Pending</td>
 <td>almost bought,gone</td>
 </tr>
 <tr class="odd">
 <td>52</td>
 <td>CN</td>
-<td>$184,900</td>
-<td>2 bed 2 bath 919 sqft 1,220 sqft lot 1 car</td>
-<td>3101 Townbluff Dr Apt 1021, Plano, TX 75075</td>
-<td></td>
-<td>talked to Margaret,2nd fl,clean</td>
+<td>$189,000</td>
+<td>3 bed 2 bath 1,153 sqft 1,525 sqft lot 1 car</td>
+<td>3101 Townbluff Dr Apt 823, Plano, TX 75075</td>
+<td>Pending</td>
+<td>on contract</td>
 </tr>
 <tr class="even">
 <td>53</td>
@@ -666,18 +666,18 @@
 <tr class="odd">
 <td>61</td>
 <td>CN</td>
-<td>$229,900</td>
-<td>2 bed 1+ bath 1,346 sqft 4,792 sqft lot 2 car</td>
-<td>7000 Brentdale Ln, Plano, TX 75025</td>
+<td>$219,000</td>
+<td>2 bed 1+ bath 1,359 sqft 3,049 sqft lot 2 car</td>
+<td>10005 Monastery Dr, Plano, TX 75025</td>
 <td>Pending</td>
 <td></td>
 </tr>
 <tr class="even">
 <td>62</td>
 <td>CN</td>
-<td>$219,000</td>
-<td>2 bed 1+ bath 1,359 sqft 3,049 sqft lot 2 car</td>
-<td>10005 Monastery Dr, Plano, TX 75025</td>
+<td>$214,900</td>
+<td>2 bed 1+ bath 1,213 sqft 2,614 sqft lot 2 car</td>
+<td>9913 Castlewood Dr, Plano, TX 75025</td>
 <td>Pending</td>
 <td></td>
 </tr>
@@ -693,9 +693,9 @@
 <tr class="even">
 <td>64</td>
 <td>CN</td>
-<td>$214,900</td>
-<td>2 bed 1+ bath 1,213 sqft 2,614 sqft lot 2 car</td>
-<td>9913 Castlewood Dr, Plano, TX 75025</td>
+<td>$229,900</td>
+<td>2 bed 1+ bath 1,346 sqft 4,792 sqft lot 2 car</td>
+<td>7000 Brentdale Ln, Plano, TX 75025</td>
 <td>Pending</td>
 <td></td>
 </tr>
@@ -782,21 +782,21 @@
 </tr>
 <tr class="even">
 <td>72</td>
-<td>CN</td>
-<td>$129,900</td>
-<td>2 bed 1+ bath 1,111 sqft 10.2 acres lot</td>
-<td>2149 Trellis Pl, Richardson, TX 75081</td>
-<td></td>
-<td>looks poor</td>
-</tr>
-<tr class="odd">
-<td>73</td>
 <td>HS</td>
 <td>$230,000</td>
 <td>3 bed 2 bath 1,034 sqft 9,235 sqft lot 1 car</td>
 <td>409 La Salle Dr, Richardson, TX 75081</td>
 <td></td>
 <td>talked to neighbour,looks old,bathroom tilted</td>
+</tr>
+<tr class="odd">
+<td>73</td>
+<td>CN</td>
+<td>$129,900</td>
+<td>2 bed 1+ bath 1,111 sqft 10.2 acres lot</td>
+<td>2149 Trellis Pl, Richardson, TX 75081</td>
+<td></td>
+<td>looks poor</td>
 </tr>
 <tr class="even">
 <td>74</td>
@@ -810,7 +810,7 @@
 <tr class="odd">
 <td>75</td>
 <td>HS</td>
-<td>$162,900</td>
+<td>$160,900</td>
 <td>3 bed 1+ bath 1,097 sqft 0.24 acres lot</td>
 <td>631 E Tyler St, Richardson, TX 75081</td>
 <td></td>
@@ -864,7 +864,7 @@
 </tbody>
 </table>
 
-### PropertyCount:25 https://www.realtor.com/realestateandhomes-search/75074/beds-2/price-na-230000
+### PropertyCount:21 https://www.realtor.com/realestateandhomes-search/75074/beds-2/price-na-230000
 
 <table>
 <thead>
@@ -891,6 +891,24 @@
 <tr class="even">
 <td>80</td>
 <td>HS</td>
+<td>$215,000</td>
+<td>2 bed 2+ bath 1,248 sqft 4,792 sqft lot 2 car</td>
+<td>2633 Boedeker Dr, Plano, TX 75074</td>
+<td></td>
+<td>back to 14th st, noise</td>
+</tr>
+<tr class="odd">
+<td>81</td>
+<td>HS</td>
+<td>$209,990</td>
+<td>3 bed 2 bath 1,230 sqft 7,405 sqft lot yes car</td>
+<td>1419 Ridgecrest Dr, Plano, TX 75074</td>
+<td></td>
+<td>new AC,clen,looks OK</td>
+</tr>
+<tr class="even">
+<td>82</td>
+<td>HS</td>
 <td>$155,900</td>
 <td>3 bed 2 bath 1,338 sqft 9,148 sqft lot 2 car</td>
 <td>3305 Ridgelake Ln, Plano, TX 75074</td>
@@ -898,49 +916,31 @@
 <td>looks bad inside</td>
 </tr>
 <tr class="odd">
-<td>81</td>
-<td>HS</td>
-<td>$224,000</td>
-<td>3 bed 2 bath 1,524 sqft 0.32 acres lot 2 car</td>
-<td>1477 Rockshire Dr, Plano, TX 75074</td>
-<td></td>
-<td>new AC,clean,looks very nice,OK</td>
-</tr>
-<tr class="even">
-<td>82</td>
-<td>HS</td>
-<td>$212,000</td>
-<td>3 bed 2 bath 1,292 sqft 7,841 sqft lot 1 car</td>
-<td>1916 Fairfield Dr, Plano, TX 75074</td>
-<td>~Open House 1/23</td>
-<td>pool, poor paint, sat dish, park near,OK</td>
-</tr>
-<tr class="odd">
 <td>83</td>
-<td>HS</td>
-<td>$223,000</td>
-<td>4 bed 2+ bath 1,482 sqft 7,405 sqft lot yes car</td>
-<td>3333 Glenwood Ln, Plano, TX 75074</td>
+<td>CN</td>
+<td>$155,000</td>
+<td>2 bed 2+ bath 1,254 sqft 741 sqft lot</td>
+<td>2400 Jupiter Rd Unit 3, Plano, TX 75074</td>
 <td></td>
-<td>new door,new paint,???</td>
+<td>???</td>
 </tr>
 <tr class="even">
 <td>84</td>
 <td>HS</td>
-<td>$210,000</td>
-<td>3 bed 1+ bath 1,536 sqft 6,970 sqft lot 2 car</td>
-<td>3408 Westminster Dr, Plano, TX 75074</td>
-<td>~Open House 1/23</td>
-<td>new AC, clean, OK ?</td>
+<td>$220,000</td>
+<td>4 bed 2 bath 1,685 sqft 8,712 sqft lot 2 car</td>
+<td>2013 Meadowcreek Dr, Plano, TX 75074</td>
+<td></td>
+<td>looks nice,clean,OK</td>
 </tr>
 <tr class="odd">
 <td>85</td>
 <td>HS</td>
-<td>$216,700</td>
-<td>4 bed 2 bath 1,520 sqft 0.28 acres lot 2 car</td>
-<td>1629 Timberline Dr, Plano, TX 75074</td>
+<td>$199,000</td>
+<td>2 bed 1 bath 1,028 sqft 0.28 acres lot</td>
+<td>910 17th St, Plano, TX 75074</td>
 <td></td>
-<td>big house,white bricks,looks OK</td>
+<td>built in 1943</td>
 </tr>
 <tr class="even">
 <td>86</td>
@@ -954,60 +954,6 @@
 <tr class="odd">
 <td>87</td>
 <td>HS</td>
-<td>$220,000</td>
-<td>4 bed 2 bath 1,685 sqft 8,712 sqft lot 2 car</td>
-<td>2013 Meadowcreek Dr, Plano, TX 75074</td>
-<td></td>
-<td>looks nice,clean,OK</td>
-</tr>
-<tr class="even">
-<td>88</td>
-<td>HS</td>
-<td>$215,000</td>
-<td>2 bed 2+ bath 1,248 sqft 4,792 sqft lot 2 car</td>
-<td>2633 Boedeker Dr, Plano, TX 75074</td>
-<td></td>
-<td>back to 14th st, noise</td>
-</tr>
-<tr class="odd">
-<td>89</td>
-<td>HS</td>
-<td>$209,990</td>
-<td>3 bed 2 bath 1,230 sqft 7,405 sqft lot yes car</td>
-<td>1419 Ridgecrest Dr, Plano, TX 75074</td>
-<td></td>
-<td>new AC,clen,looks OK</td>
-</tr>
-<tr class="even">
-<td>90</td>
-<td>HS</td>
-<td>$189,500</td>
-<td>3 bed 1 bath 1,216 sqft 6,970 sqft lot 3 car</td>
-<td>2813 Ridgeway Dr, Plano, TX 75074</td>
-<td></td>
-<td>old dirty window AC extra garage</td>
-</tr>
-<tr class="odd">
-<td>91</td>
-<td>HS</td>
-<td>$199,000</td>
-<td>2 bed 1 bath 1,028 sqft 0.28 acres lot</td>
-<td>910 17th St, Plano, TX 75074</td>
-<td></td>
-<td>built in 1943</td>
-</tr>
-<tr class="even">
-<td>92</td>
-<td>HS</td>
-<td>$200,000</td>
-<td>4 bed 2 bath 1,680 sqft 7,492 sqft lot</td>
-<td>1017 F Ave, Plano, TX 75074</td>
-<td>Pending</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>93</td>
-<td>HS</td>
 <td>$188,500</td>
 <td>3 bed 1 bath 1,044 sqft 6,970 sqft lot 1 car</td>
 <td>2901 Price Dr, Plano, TX 75074</td>
@@ -1015,61 +961,34 @@
 <td>renovated, new materials, 1 bath, OK</td>
 </tr>
 <tr class="even">
-<td>94</td>
-<td>HS</td>
-<td>$189,900</td>
-<td>3 bed 1 bath 995 sqft 6,970 sqft lot</td>
-<td>3108 Lucas Ter, Plano, TX 75074</td>
-<td></td>
-<td>changed fence, OK</td>
-</tr>
-<tr class="odd">
-<td>95</td>
+<td>88</td>
 <td>HS</td>
 <td>$199,900</td>
 <td>4 bed 2 bath 1,428 sqft 8,276 sqft lot 2 car</td>
 <td>3531 Hillridge Dr, Plano, TX 75074</td>
-<td>Pending</td>
 <td></td>
-</tr>
-<tr class="even">
-<td>96</td>
-<td>HS</td>
-<td>$228,000</td>
-<td>3 bed 2 bath 1,400 sqft 7,405 sqft lot 2 car</td>
-<td>3528 Shorecrest Dr, Plano, TX 75074</td>
-<td>Pending</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td>97</td>
+<td>89</td>
 <td>HS</td>
-<td>$190,000</td>
-<td>3 bed 2 bath 1,166 sqft 4,792 sqft lot</td>
-<td>1204 H Pl, Plano, TX 75074</td>
-<td></td>
-<td>bad area subsidized</td>
+<td>$210,000</td>
+<td>3 bed 1+ bath 1,536 sqft 6,970 sqft lot 2 car</td>
+<td>3408 Westminster Dr, Plano, TX 75074</td>
+<td>~Open House 1/26</td>
+<td>new AC, clean, OK ?</td>
 </tr>
 <tr class="even">
-<td>98</td>
+<td>90</td>
 <td>HS</td>
-<td>$220,000</td>
-<td>4 bed 3 bath 1,938 sqft 9,148 sqft lot</td>
-<td>1908 Greenbriar Ct, Plano, TX 75074</td>
-<td>Pending</td>
+<td>$223,000</td>
+<td>4 bed 2+ bath 1,482 sqft 7,405 sqft lot yes car</td>
+<td>3333 Glenwood Ln, Plano, TX 75074</td>
 <td></td>
+<td>new door,new paint,???</td>
 </tr>
 <tr class="odd">
-<td>99</td>
-<td>HS</td>
-<td>$174,999</td>
-<td>3 bed 1+ bath 1,117 sqft 7,405 sqft lot 2 car</td>
-<td>1625 Hawthorne Ln, Plano, TX 75074</td>
-<td>Pending</td>
-<td>talked to neighbor,renovation,some chacks, new AC, OK</td>
-</tr>
-<tr class="even">
-<td>100</td>
+<td>91</td>
 <td>HS</td>
 <td>$139,000</td>
 <td>3 bed 2 bath 1,292 sqft yes car</td>
@@ -1077,17 +996,62 @@
 <td>Pending</td>
 <td>looks OK, shed, no garage</td>
 </tr>
+<tr class="even">
+<td>92</td>
+<td>HS</td>
+<td>$174,999</td>
+<td>3 bed 1+ bath 1,117 sqft 7,405 sqft lot 2 car</td>
+<td>1625 Hawthorne Ln, Plano, TX 75074</td>
+<td>Pending</td>
+<td>talked to neighbor,renovation,some chacks, new AC, OK</td>
+</tr>
 <tr class="odd">
-<td>101</td>
-<td>CN</td>
-<td>$155,000</td>
-<td>2 bed 2+ bath 1,254 sqft 741 sqft lot</td>
-<td>2400 Jupiter Rd Unit 3, Plano, TX 75074</td>
+<td>93</td>
+<td>HS</td>
+<td>$189,500</td>
+<td>3 bed 1 bath 1,216 sqft 6,970 sqft lot 3 car</td>
+<td>2813 Ridgeway Dr, Plano, TX 75074</td>
 <td></td>
-<td>???</td>
+<td>old dirty window AC extra garage</td>
 </tr>
 <tr class="even">
-<td>102</td>
+<td>94</td>
+<td>HS</td>
+<td>$190,000</td>
+<td>3 bed 2 bath 1,166 sqft 4,792 sqft lot</td>
+<td>1204 H Pl, Plano, TX 75074</td>
+<td></td>
+<td>bad area subsidized</td>
+</tr>
+<tr class="odd">
+<td>95</td>
+<td>HS</td>
+<td>$220,000</td>
+<td>4 bed 3 bath 1,938 sqft 9,148 sqft lot</td>
+<td>1908 Greenbriar Ct, Plano, TX 75074</td>
+<td>Pending</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>96</td>
+<td>HS</td>
+<td>$216,700</td>
+<td>4 bed 2 bath 1,520 sqft 0.28 acres lot 2 car</td>
+<td>1629 Timberline Dr, Plano, TX 75074</td>
+<td></td>
+<td>big house,white bricks,looks OK</td>
+</tr>
+<tr class="odd">
+<td>97</td>
+<td>HS</td>
+<td>$224,000</td>
+<td>3 bed 2 bath 1,524 sqft 0.32 acres lot 2 car</td>
+<td>1477 Rockshire Dr, Plano, TX 75074</td>
+<td></td>
+<td>new AC,clean,looks very nice,OK</td>
+</tr>
+<tr class="even">
+<td>98</td>
 <td>CN</td>
 <td>$169,000</td>
 <td>2 bed 2+ bath 1,254 sqft 697 sqft lot</td>
@@ -1096,13 +1060,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td>103</td>
-<td>CN</td>
-<td>$154,900</td>
-<td>2 bed 1+ bath 1,270 sqft 4,225 sqft lot</td>
-<td>3801 14th St Apt 1801, Plano, TX 75074</td>
+<td>99</td>
+<td>HS</td>
+<td>$200,000</td>
+<td>4 bed 2 bath 1,680 sqft 7,492 sqft lot</td>
+<td>1017 F Ave, Plano, TX 75074</td>
 <td>Pending</td>
-<td>2 str, OK</td>
+<td></td>
 </tr>
 </tbody>
 </table>
