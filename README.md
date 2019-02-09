@@ -148,7 +148,7 @@
 <td>2 bed 1+ bath 1,015 sqft 9.87 acres lot</td>
 <td>12680 Hillcrest Rd Apt 4204, Dallas, TX 75230</td>
 <td></td>
-<td></td>
+<td>grat location,pool,park,from december</td>
 </tr>
 <tr class="even">
 <td>16</td>
@@ -267,7 +267,7 @@
 <td>3 bed 2 bath 1,401 sqft 9,627 sqft lot 2 car</td>
 <td>8248 Clear Springs Rd, Dallas, TX 75240</td>
 <td>New - 19 hours ago</td>
-<td></td>
+<td>option Contract,great but noisy</td>
 </tr>
 <tr class="even">
 <td>27</td>
@@ -708,7 +708,7 @@
 <td>3 bed 2 bath 1,478 sqft 0.24 acres lot 2 car</td>
 <td>1413 N Floyd Rd, Richardson, TX 75080</td>
 <td>New</td>
-<td></td>
+<td>option contract,great area,old house</td>
 </tr>
 <tr class="even">
 <td>68</td>
@@ -717,7 +717,7 @@
 <td>2 bed 2+ bath 1,379 sqft 3,311 sqft lot 1 car</td>
 <td>933 Spring Valley Plz, Richardson, TX 75080</td>
 <td>New</td>
-<td></td>
+<td>clean townhome,new roof foundation,bad area</td>
 </tr>
 <tr class="odd">
 <td>69</td>
