@@ -148,7 +148,7 @@
 <td>2 bed 1+ bath 1,015 sqft 9.87 acres lot</td>
 <td>12680 Hillcrest Rd Apt 4204, Dallas, TX 75230</td>
 <td></td>
-<td>grat location,pool,park,from december</td>
+<td>great location,pool,park,from december</td>
 </tr>
 <tr class="even">
 <td>16</td>
